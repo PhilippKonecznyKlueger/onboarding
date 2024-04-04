@@ -37,7 +37,11 @@ the Instance has to be set null at compile time and gets it's Instance of the ac
 
 to open the documentation hit [SwaggerUI](http//:localhost:8080/swagger-ui/index.html) in your browser
 
+<<<<<<< HEAD
 ### basic JUnit testing is done in this program
+=======
+### basic JUnit testing is done in this program with mocking
+>>>>>>> c99c352 (initial2)
 
 
 
